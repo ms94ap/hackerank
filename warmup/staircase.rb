@@ -5,7 +5,7 @@
  #####
 ######
 
-#!/bin/ruby
+
 
 n = gets.strip.to_i
 square = Array.new(n)

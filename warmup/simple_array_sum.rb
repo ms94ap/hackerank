@@ -1,7 +1,6 @@
 # Given an array of  integers,
 # can you find the sum of its elements?
 
-#!/bin/ruby
 
 n = gets.strip.to_i
 arr = gets.strip
